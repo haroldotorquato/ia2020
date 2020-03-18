@@ -1,0 +1,74 @@
+Exercício 01 de IA
+Entrega pelo SIGAA até 19/03/2020 às 18hrs
+Pontuação: A frequência da aula não presencial do dia 17/03/2020.
+A lista pode ser resolvida em dupla.
+Será considerada válida para 70% dos exercícios resolvidos.
+
+1. Defina Inteligência. O que é um comportamento inteligente de uma máquina?
+
+
+
+2. Caracterize as seguintes categorias “Sistemas que pensam como os humanos”, “Sistemas
+que agem como os humanos”, “Sistemas que pensam racionalmente” e “Sistemas que agem
+racionalmente”.
+
+
+
+3. Em que consiste um Agente Inteligente? Ilustre duas aplicações para esse tipo de agente.
+
+
+
+4. Descreva as características dos seguintes agentes de acordo com a sua estrutura.
+a) Agentes reativos simples
+
+b) Agentes reativos baseados em modelo
+
+c) Agentes baseados em objetivos
+
+d) Agentes baseados na utilidade
+
+e) Agentes com aprendizagem
+
+
+5. Responda SIM ou NÃO para indicar o que caracteriza cada um dos ambientes apresentados a
+seguir (justifique as suas respostas).
+
+
+
+6. Em que consiste a Inteligência Artificial Distribuída? O que caracteriza um Sistema Multiagente?
+Ilustre duas aplicações para sistemas multiagentes.
+
+
+
+7. Caracterize os agentes, conforme figura a seguir (que apresenta uma tipologia que define quatro
+tipos de agentes baseados nas suas habilidades de cooperar, aprender e agir autonomamente.
+Denominados por “agentes espertos, agentes colaborativos, agentes de aprendizado colaborativo
+e agentes de interface”), e ilustre aplicações para esses agentes.
+
+
+
+8. Defina com suas próprias palavras os seguintes termos:
+a) Estado;
+
+b) Espaço de estados;
+
+c) Árvore de busca;
+
+d) Nó de busca;
+
+e) Estado objetivo;
+
+f) Função sucessor;
+
+g) Custo do caminho.
+
+
+9. Qual é a diferença entre uma busca informada e uma busca não informada?
+
+
+
+10. Dê um exemplo de problema em que a “busca em largura” funcionaria melhor do que a “busca
+em profundidade”. Dê um exemplo de problema em que a “busca em profundidade” funcionaria
+melhor do que a “busca em largura”. Justifique os exemplos.
+
+
